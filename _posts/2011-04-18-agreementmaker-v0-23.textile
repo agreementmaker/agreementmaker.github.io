@@ -1,0 +1,32 @@
+---
+title: AgreementMaker v0.23
+---
+Hello everyone,
+
+AgreementMaker 0.23 is now available for download. Several changes have been
+made including:
+
+* "Jena TDB":http://openjena.org/TDB integration allowing to load ontologies to an on disk directory location. This is useful if you’re working with large ontologies.
+
+<div class="wp-caption aligncenter" style="width: 486px">
+!(size-full). http://cdn.agreementmaker.org/web/images/Screenshot-Open-Ontologies.png!
+<p class="wp-caption-text">Capability to load an ontology to an on disk location instead of just memory.</p>
+</div>
+
+The Lexicon builder can now select the properties which are synonym properties and which are definition properties (previously we just used “hasSynonym” and “hasDefinition”). This is useful for dealing with non-standard annotations.
+
+<div class="wp-caption aligncenter" style="width: 610px">
+!(size-full). http://cdn.agreementmaker.org/web/images/Screenshot-Lexicon-Builder-Settings2.png!
+<p class="wp-caption-text">The lexicon builder dialog, allowing to choose which
+annotation properties are used in the lexicon building process.</p>
+</div>
+
+Several algorithms have been extended to allow for “annotation profiling”, letting the user choose which annotations and properties are used in the the computation of the similarity metrics. Previously, the algorithms were hard coded with the standard annotations, such as rdfs:label, rdfs:comment, etc.
+
+<div class="wp-caption aligncenter" style="width: 678px">
+!(size-full). http://cdn.agreementmaker.org/web/images/Screenshot-Advanced-Similarity-Matcher-additional-parameters.png!
+<p class="wp-caption-text">Annotation profiling has been implemented in several
+matching algorithms.</p>
+</div>
+
+... plus several bug fixes.

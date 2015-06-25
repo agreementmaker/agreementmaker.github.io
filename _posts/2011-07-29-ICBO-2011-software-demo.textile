@@ -1,0 +1,14 @@
+---
+title: ICBO 2011 Software Demo
+---
+!(alignright size-full). http://agreementmaker.org/wp-content/uploads/2011/07/ICBO2011.png!:http://icbo.buffalo.edu/
+AgreementMaker was demo-ed today at the International Conference on Biomedical
+Ontology. I want to thank everyone that attended, I hope it was a good
+introduction to AgreementMaker.
+
+The "short slides I presented":http://cdn.agreementmaker.org/web/files/AgreementMaker-ICBO-demo-slides.pdf
+are now online. Not much to see there, but just in case people were interested in the slides.
+
+*Update:* Thank you to all the people that are interested in AgreementMaker.
+If I didn’t get a chance to speak with you, please feel free to contact me
+directly (cstroe1 AT cs DOT uic DOT edu).

@@ -1,1 +1,37 @@
-AgreementMaker
+---
+title: AgreementMaker | Efficient Matching for Large Real-World Schemas and Ontologies
+---
+{% include header.html %}
+{% include topheader.html %}
+
+<div id="main">
+  <div id="container">
+    <div id="content" role="main">
+
+      {% for post in site.posts %}
+
+      <div class="post type-post status-publish format-standard hentry category-conference">
+      <h2 class="entry-title">
+        <a href="{{ post.url }}" rel="bookmark">
+          {{ post.title }}
+        </a>
+      </h2>
+
+      <div class="entry-meta">
+        <span class="meta-prep meta-prep-author">Posted on</span>
+        <span class="entry-date">{{ post.date | date: "%A, %B %-d, %Y" }}</span>
+      </div><!-- .entry-meta -->
+
+      <div class="entry-content">
+        {{ post.content }}
+      </div>
+
+      <hr style="border: solid black 1px;"/>
+
+  {% endfor %}
+
+    </div><!--content-->
+  </div><!--container-->
+</div><!--main-->
+
+{% include footer.html %}

@@ -1,0 +1,8 @@
+---
+title: Site re-design
+---
+Hello everyone,
+
+The AgreementMaker site will be moving to a blog format in order to form
+a more community oriented website.  Updates and interesting news will be posted
+via this blog.  Stay tuned.
