@@ -1,0 +1,17 @@
+---
+title: Merry Christmas! (version 0.22)
+---
+!(alignright size-full). http://cdn.agreementmaker.org/web/images/secretlondon_red_present3.png!:http://icbo.buffalo.edu/ Santa came by the ADVIS Laboratory last night and left a new version of AgreementMaker under our tree!
+
+I’m glad to share with everyone AgreementMaker version *0.22*. This version includes all our "OAEI 2010":http://oaei.ontologymatching.org/2010/ matching algorithms. AgreementMaker was able to get the best result for the Anatomy track this year. Check out the "results":http://www.dit.unitn.it/~p2p/OM-2010/oaei10_paper1.pdf at the ["Ontology Matching Workshop at ISWC2010":http://om2010.ontologymatching.org/].
+
+The user interface was polished quite a bit also, and also many bugs fixed, so I encourage everyone to update their AgreementMaker. If you are not an ADVIS Partner, you will have to fill out the download form. As always questions, comments, concerns, or any kind of feedback are welcome via email. You can contact me directly at _cstroe1 AT uic DOT edu_ or "Professor Cruz":http://www.cs.uic.edu/Cruz via her public contact options.
+
+<div class="wp-caption aligncenter">
+!(size-full). http://cdn.agreementmaker.org/web/images/mpanel.png!
+<p class="wp-caption-text">The redesigned matching panel, one of the many UI changes.</p>
+</div>
+
+I would also like to thank Michele Caci, Matteo Palmonari, and Federico Caimi for their hard work in the ADVIS Laboratory.
+
+Have a merry Christmas and a happy new year!

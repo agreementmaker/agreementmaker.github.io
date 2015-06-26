@@ -1,0 +1,11 @@
+---
+title: AgreementMaker turns 21 ...
+---
+… well, not quite.
+
+I am happy to announce a new AgreementMaker release, version *0.21*. There are several bugfixes (some quite annoying), plus two new features:
+
+* "The SEALS Interface":https://github.com/agreementmaker/agreementmaker.github.io/wiki/SEALS-Interface  – just in time for the first OAEI deadline.
+* "WordNet Lookup":https://github.com/agreementmaker/agreementmaker.github.io/wiki/WordNet-Lookup – when you need to debug your WordNet matcher.
+
+I strongly recommend everyone upgrade from version 0.2, since there were a few usability bugs fixed. For the developers working with AgreementMaker in Eclipse, you will just need the updated jar.
