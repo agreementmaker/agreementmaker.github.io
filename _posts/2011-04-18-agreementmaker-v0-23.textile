@@ -6,7 +6,7 @@ Hello everyone,
 AgreementMaker 0.23 is now available for download. Several changes have been
 made including:
 
-* "Jena TDB":http://openjena.org/TDB integration allowing to load ontologies to an on disk directory location. This is useful if you’re working with large ontologies.
+* "Jena TDB":https://jena.apache.org/documentation/tdb integration allowing to load ontologies to an on disk directory location. This is useful if you’re working with large ontologies.
 
 <div class="wp-caption aligncenter">
 !(size-full). http://cdn.agreementmaker.org/web/images/Screenshot-Open-Ontologies.png!
